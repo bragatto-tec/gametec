@@ -46,7 +46,7 @@ public class Main implements ApplicationListener {
     Array<Sprite> tiroSprites;
     Rectangle tiroRectangle;
     float tiroWidth = 0.15f, tiroHeight = 0.4f;
-    float velocidadeTiro = 6f;
+    float velocidadeTiro = 2.2f;
     float tiroTimer;
     float intervaloTiro = 0.3f;       
 
